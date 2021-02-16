@@ -1,0 +1,66 @@
+body{
+	background-image: url('imagens/background.png');
+	background-repeat: all;}
+
+
+.imgcenter{ /*Formatação da imagem principal*/
+	display: block; /*Cria um "bloco" de texto, tornando-o um elemento da página*/
+	margin-right: auto;/*Âmbas são para deixar a imagem centralizada, mesmo espaçamento de borda*/
+	margin-left: auto;
+	width: 52%;
+	border: #c1c1c1 solid;
+	border-width: 5px;
+}
+
+.divtextoHome{/*Texto principal*/
+	margin:0 auto;
+	width: 51%;
+	text-align: center;
+	color: white;/*Cor de fonte*/
+	background-color: #2E2E2E;
+	padding: 6px;}/*Espaçamento entre os elementos*/
+
+
+		#bntBusca{/*Botão de procura*/
+		  float:left;/*Diz em que direção o bloco/texto deve estar*/
+		  height:32px;
+		  width:70px;
+		  font-weight:bold;/*Deixa a fonte mais "gordinha"*/}
+
+.divtextos{
+	margin:0 auto;
+	width: 51%;
+	text-align: left;
+	color: white;/*Cor de fonte*/
+	background-color: #2E2E2E;
+	padding: 20px;/*Espaçamento entre os elementos*/
+	font-family: Arial, Halvetica, sans-serif;
+	color: white;}
+
+.forms{
+	font-family: Arial, Halvetica, sans-serif;
+	color: white;
+	text-align: left;
+}
+		
+
+a {/*Formatação dos links*/
+	font-size: 15px;
+
+	color: white;
+	text-decoration: none;
+	font-weight: bold;/*Deixa a fonte mais "gordinha"*/
+	padding: 20px
+}
+
+h4, p, a{/*Formatação dos títulos*/
+	font-family: Arial, Halvetica, sans-serif;
+	color: white;
+}
+
+h1{
+	font-size: 27px;
+	font-family:Arial, Halvetica, sans-serif;
+
+}
+
