@@ -18,7 +18,8 @@ body{
 	text-align: center;
 	color: white;/*Cor de fonte*/
 	background-color: #2E2E2E;
-	padding: 6px;}/*Espaçamento entre os elementos*/
+	padding: 6px;/*Espaçamento entre os elementos*/
+	text-decoration: none;}
 
 
 		#bntBusca{/*Botão de procura*/
